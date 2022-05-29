@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0397b397-f920-4f6a-85e3-84deff5080c1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/MyAPI/Controllers/OrderController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyAPI/Models/Order.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyAPI/Models/OrderDatabaseSettings.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyAPI/Service/OrderService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyAPI/Controllers/WeatherForecastController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyAPI/MyAPI.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/MyAPI/MyAPI.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyAPI/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MyAPI/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyAPI/Service/SQLiteDatabaseService.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyAPI/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/MyAPI/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyAPI/bin/Debug/net6.0/MyAPI.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/MyAPI/bin/Debug/net6.0/MyAPI.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyAPI/bin/Debug/net6.0/MyAPI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MyAPI/bin/Debug/net6.0/MyAPI.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyAPI/bin/Debug/net6.0/MyAPI.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MyAPI/bin/Debug/net6.0/MyAPI.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyAPI/bin/Debug/net6.0/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/MyAPI/bin/Debug/net6.0/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyAPI/obj/Debug/net6.0/MyAPI.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MyAPI/obj/Debug/net6.0/MyAPI.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyAPI/obj/Debug/net6.0/MyAPI.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MyAPI/obj/Debug/net6.0/MyAPI.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyAPI/obj/Debug/net6.0/MyAPI.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MyAPI/obj/Debug/net6.0/MyAPI.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyAPI/obj/Debug/net6.0/MyAPI.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MyAPI/obj/Debug/net6.0/MyAPI.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyAPI/obj/Debug/net6.0/MyAPI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MyAPI/obj/Debug/net6.0/MyAPI.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyAPI/obj/Debug/net6.0/MyAPI.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MyAPI/obj/Debug/net6.0/MyAPI.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyAPI/obj/Debug/net6.0/ref/MyAPI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MyAPI/obj/Debug/net6.0/ref/MyAPI.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyAPI/obj/Debug/net6.0/refint/MyAPI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MyAPI/obj/Debug/net6.0/refint/MyAPI.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyAPI/obj/MyAPI.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/MyAPI/obj/MyAPI.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyAPI/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/MyAPI/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyAPI/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MyAPI/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyAPI/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/MyAPI/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyAPI/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/MyAPI/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyAPI/obj/staticwebassets.pack.sentinel" beforeDir="false" afterPath="$PROJECT_DIR$/MyAPI/obj/staticwebassets.pack.sentinel" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="28xrxX96vMiiAfAEGr8XVxqTmgM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "dart.analysis.tool.window.visible": "false",
+    "last_opened_file_path": "/home/tomwallyn/Desktop/PERSO/scanmyfriends",
+    "show.migrate.to.gradle.popup": "false"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0397b397-f920-4f6a-85e3-84deff5080c1" name="Changes" comment="" />
+      <created>1652169324204</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652169324204</updated>
+      <workItem from="1652169325595" duration="130000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
